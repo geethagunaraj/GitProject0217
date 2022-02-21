@@ -15,8 +15,10 @@ System.out.println("enter number 4");
 	}
 	
 	private void five() {
-		// TODO Auto-generated method stub
-
+System.out.println("syed is 5Ths");
+	}
+	private void six() {
+System.out.println("Geetha is six");
 	}
 	public static void main(String[] args) {
 		GitHub g = new GitHub();
